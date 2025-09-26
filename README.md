@@ -2,8 +2,9 @@
 SysAdmin apaixonado por automação e segurança. Trabalho com Proxmox, TrueNAS e Ubuntu.
 
 ## Projetos em Destaque
-- [Projeto 1](link): Descrição breve.
-- [Projeto 2](link): Descrição breve.
+Projeto 1 Netdata no Ubuntu 24.04.3: O Netdata é uma ferramenta open-source poderosa para monitoramento em tempo real de recursos do sistema, como CPU, memória, disco e rede, com uma interface web intuitiva.
+
+Projeto 2 Webmin on Ubuntu 24.04: O Webmin é um painel de controle web gratuito e de código aberto para gerenciar sistemas Unix, incluindo servidores Ubuntu.
 
 ## Tecnologias
 - Linux, Bash, ZFS, SSH
